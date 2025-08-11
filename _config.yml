@@ -22,14 +22,14 @@ repository               : "rakesharulnz/photonicsarul.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "250523-111044-X6-IMG_2591.jfif"
+  name             : "Rakesh Arul"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research Fellow St. John's College Cambridge"
+  location         : "Cambridge, UK"
+  employer         : "University of Cambridge"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ra554@cam.ac.uk" 
 
   # Academic websites
   academia         : # URL
