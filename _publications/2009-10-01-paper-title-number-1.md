@@ -3,7 +3,7 @@ title: "1. The mechanism of direct laser writing of graphene features into graph
 collection: publications
 category: manuscripts
 permalink: https://www.sciencedirect.com/science/article/pii/S0008622315305182
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: #'Carbon'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
