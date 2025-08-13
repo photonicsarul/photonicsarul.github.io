@@ -84,6 +84,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: '2015'  
+  manuscripts2015:
+    title: '2015' 
   conferences:
     title: 'Conference Papers'
 
