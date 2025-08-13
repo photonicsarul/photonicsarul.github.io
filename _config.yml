@@ -82,18 +82,8 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts2015:
-    title: '2015'    
-  manuscripts2016:
-    title: '2016'    
-  manuscripts2016:
-    title: '2017'   
-  manuscripts2018:
-    title: '2018'  
-  manuscripts2019:
-    title: '2019'   
-  manuscripts2020:
-    title: '2020'  
+  manuscripts:
+    title: '2015'  
   conferences:
     title: 'Conference Papers'
 
