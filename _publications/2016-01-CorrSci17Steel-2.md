@@ -8,5 +8,4 @@ date: 2016-10-01
 venue: ''
 paperurl: 'https://doi.org/10.1016/j.corsci.2017.05.026'
 paperdownload: '/files/CorrSci17Steel.pdf'
-citation: ''
 ---
