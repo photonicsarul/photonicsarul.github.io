@@ -8,6 +8,5 @@ date: 2016-10-01
 venue: ''
 paperurl: 'https://doi.org/10.1016/j.carbon.2015.12.038'
 paperdownload: '/files/Carbon15MechanismrGO.pdf'
-citation: ''
 ---
 
