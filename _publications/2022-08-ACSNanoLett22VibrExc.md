@@ -1,5 +1,5 @@
 ---
-title: "10. Collective Mid-Infrared Vibrations in Surface-Enhanced Raman Scattering"
+title: "9. Collective Mid-Infrared Vibrations in Surface-Enhanced Raman Scattering"
 collection: publications
 category: manuscripts2022
 permalink: https://doi.org/10.1021/acs.nanolett.2c02806

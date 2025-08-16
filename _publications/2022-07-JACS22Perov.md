@@ -1,5 +1,5 @@
 ---
-title: "8. Elucidating the Role of Antisolvents on the Surface Chemistry and Optoelectronic Properties of CsPbBrxI3-x Perovskite Nanocrystal"
+title: "7. Elucidating the Role of Antisolvents on the Surface Chemistry and Optoelectronic Properties of CsPbBrxI3-x Perovskite Nanocrystal"
 collection: publications
 category: manuscripts2022
 permalink: https://pubs.acs.org/doi/full/10.1021/jacs.2c02631

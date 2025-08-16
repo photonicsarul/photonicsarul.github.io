@@ -1,5 +1,5 @@
 ---
-title: "9. Theory of strong coupling between molecules and surface plasmons on a grating"
+title: "8. Theory of strong coupling between molecules and surface plasmons on a grating"
 collection: publications
 category: manuscripts2022
 permalink: https://doi.org/10.1515/nanoph-2022-0301
