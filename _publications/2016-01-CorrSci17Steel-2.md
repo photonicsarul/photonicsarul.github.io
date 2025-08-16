@@ -1,5 +1,5 @@
 ---
-title: "Local supersaturation and the growth of protective scales during CO2 corrosion of steel: Effect of pH and solution flow"
+title: "2. Local supersaturation and the growth of protective scales during CO2 corrosion of steel: Effect of pH and solution flow"
 collection: publications
 category: manuscripts2017
 permalink: https://doi.org/10.1016/j.corsci.2017.05.026

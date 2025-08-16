@@ -1,5 +1,5 @@
 ---
-title: "Giant fullerene formation through thermal treatment of fullerene soot"
+title: "3. Giant fullerene formation through thermal treatment of fullerene soot"
 collection: publications
 category: manuscripts2017
 permalink: https://doi.org/10.1016/j.carbon.2017.09.045
