@@ -1,5 +1,5 @@
 ---
-title: "28. Efficient short-wave infrared upconversion by self-sensitized holmium-doped nanoparticles"
+title: "29. Efficient short-wave infrared upconversion by self-sensitized holmium-doped nanoparticles"
 collection: publications
 category: Preprints
 permalink: https://arxiv.org/abs/2411.19949

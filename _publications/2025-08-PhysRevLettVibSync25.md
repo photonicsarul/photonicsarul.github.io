@@ -1,5 +1,5 @@
 ---
-title: "30. Coherent Dynamics of Molecular Vibrations in Single Plasmonic Nanogaps"
+title: "28. Coherent Dynamics of Molecular Vibrations in Single Plasmonic Nanogaps"
 collection: publications
 category: manuscripts2025
 permalink: https://doi.org/10.1103/txdw-nqvn
