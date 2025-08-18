@@ -18,17 +18,17 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  # url: /portfolio/
         
   - title: "News"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Resume.pdf
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
