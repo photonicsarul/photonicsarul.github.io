@@ -15,5 +15,5 @@ Further details in the press links below from the Cavendish Laboratory and from 
 
 Links
 ======
-Cavendish: <a href="{https://www.phy.cam.ac.uk/news/cambridge-scientists-unlock-ultra-strong-light-matter-coupling-paving-the-way-for-revolutionary-material-transformations/}">Download Manuscript</a>
+[Cavendish](https://www.phy.cam.ac.uk/news/cambridge-scientists-unlock-ultra-strong-light-matter-coupling-paving-the-way-for-revolutionary-material-transformations/)
 APS: 
