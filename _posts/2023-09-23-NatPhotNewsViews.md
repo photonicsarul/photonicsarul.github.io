@@ -8,7 +8,7 @@ tags:
   - Mid-infrared
   - Single molecule
 ---
-![Illustration](/images/MIRVALS.png)
+![Illustration](/images/MIRVALS.png){: .align-center width="600px"} 
 
 Our long effort on single-molecule upconversion to transduct mid-IR vibrational signals to the visible via mid-infrared vibrationally assisted luminescence (MIRVAL)
 is published in Nature Photonics, with a nice News & Views by Matthew Sheldon from Texas A&M. 

@@ -6,7 +6,7 @@ tags:
   - Quantum
   - NanoSPINEC
 ---
-![Illustration](/images/NanoSPINEC.jpg)
+![Illustration](/images/NanoSPINEC.jpg){: .align-center width="600px"} 
 
 Happy to receive a new grant worth half a million pounds to lead an exciting collaboration between three different areas of the Cavendish - optoelectronics, nanophotonics, and quantum optics. 
 This grant, with an equal amount awarded to our theory collaborators & partners in UCSD (Prof. Joel Yuen-Zhou) will run for three years and involve us trying to tackle a hard problem: how entangled are molecular excitons and how can we measure it!
