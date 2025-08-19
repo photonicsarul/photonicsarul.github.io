@@ -1,11 +1,11 @@
 ---
 title: "Cambridge-Exeter collaboration on polaritons published - editor's highlight in Phys Rev Lett"
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: 2023-09-22
+permalink: /posts/2023/09/Cambridge-Exeter/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Collaborations
+  - Polaritons
+  - Mid-infrared
 ---
 
 A collaboration between the NanoPhotonics Centre in Cambridge and Bill Barnes' team in Exeter over few years lead to us 
