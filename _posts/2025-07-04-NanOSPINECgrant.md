@@ -1,5 +1,5 @@
 ---
-title: 'EPSRC-NSF joint grant awarded for quantum science and photonics'
+title: "EPSRC-NSF joint grant awarded for quantum science and photonics"
 date: 2025-07-04
 permalink: /posts/2025/07/NanoSPINEC/
 tags:
