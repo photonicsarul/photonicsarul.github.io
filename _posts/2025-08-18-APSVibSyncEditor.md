@@ -6,7 +6,7 @@ tags:
   - Mid-IR
   - Synchronization
 ---
-![Illustration](/images/PRLEditorsSugg.png){: .align-center width="300px"} 
+![Illustration](/images/PRLEditorsSugg.png){: .align-center width="600px"} 
 
 First corresponding author paper with the NanoPhotonics Centre, highlighting Fiona's project (a gargantuan effort by her and the team to build a new experimental ultrafast rig - and succeeding!).
 Now published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/txdw-nqvn) and with an Editor's highlight too! 
