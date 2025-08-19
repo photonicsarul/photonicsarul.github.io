@@ -1,7 +1,7 @@
 ---
 title: 'EPSRC-NSF joint grant awarded for quantum science and photonics'
-date: 2023-09-29
-permalink: /posts/2023/09/NanoSPINEC/
+date: 2025-07-04
+permalink: /posts/2025/07/NanoSPINEC/
 tags:
   - Quantum
   - NanoSPINEC
