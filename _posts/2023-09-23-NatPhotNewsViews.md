@@ -1,20 +1,16 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: "Single molecule mid-IR spectra! - News & Views by Nature Photonics"
+date: 2023-09-29
+permalink: /posts/2023/09/MIRVALS/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - MIRVALS
+  - Upconversion
+  - Mid-infrared
+  - Single molecule
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+Our long effort on single-molecule upconversion to transduct mid-IR vibrational signals to the visible via mid-infrared vibrationally assisted luminescence (MIRVAL)
+is published in Nature Photonics, with a nice News & Views by Matthew Sheldon from Texas A&M. 
+[News & Views](https://www.nature.com/articles/s41566-023-01289-8)
 
-Headings are cool
-======
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
