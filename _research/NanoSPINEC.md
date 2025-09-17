@@ -2,7 +2,6 @@
 title: "NanoSPINEC - Nanoscale spin entanglement and chemistry"
 collection: research
 permalink: /research/NanoSPINEC
-venue: "University 1, Department"
 date: 2025-09-17
 ---
 
