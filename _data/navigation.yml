@@ -9,8 +9,8 @@
 
 main:
 
-  #- title: "Research"
-  #  url: /teaching/    
+  - title: "NanoSPINEC"
+    url: /teaching/    
     
   - title: "Publications"
     url: /publications/
