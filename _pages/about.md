@@ -10,11 +10,8 @@ redirect_from:
 ![Illustration](/images/Picture1.jpg){: .align-right width="300px"}
 My research invents unconventional approaches to light–matter interaction, combining nanophotonics with functional materials to develop transformative photonic platforms. By integrating self-assembly, advanced spectroscopy, and quantum optics, I build nanostructured architectures for energy harvesting, quantum sensing, and environmental monitoring.
 
-Nanophotonics for Quantum and Sustainable Technologies
+ARIA Quantum Utility Innovator Circle
 ======
-Addressing global challenges such as climate change and quantum technologies demands more than better materials - it requires a new paradigm in how we generate, direct, and manipulate light. While progress in photovoltaics and batteries has surged, nanoscale photonics remains underexploited. 
-
-**ARIA Quantum Utility Innovator Circle**
 Hi! We are the Quantum Utility innovator circle, led by Rakesh Arul, trying to discover new and emerging uses for quantum technologies in wet, noisy, room-temperature environments. 
 We're looking for people keen on:
 - Building the quantum tech of the future 
@@ -36,6 +33,9 @@ We are also in the process of setting up a website to document our progress, so 
 Any further questions, please email Rakesh Arul at ra554@cam.ac.uk and fill out this form: https://forms.gle/74yVFRsQKewSe1Fz9
 
 
+Nanophotonics for Quantum and Sustainable Technologies
+======
+Addressing global challenges such as climate change and quantum technologies demands more than better materials - it requires a new paradigm in how we generate, direct, and manipulate light. While progress in photovoltaics and batteries has surged, nanoscale photonics remains underexploited. 
 
 **Research summary**
 My research interlinks four main themes, each building on the others: (1) Metamaterials to confine and manipulate light at the atomic scale; (2) Optoelectronics for IR-to-visible photon upconversion; (3) Quantum entanglement and spin dynamics in molecular systems; and (4) Applying these innovations to environmental sensing. Together, they form a coherent framework advancing condensed matter physics and enabling technologies across quantum information, energy, and climate science.
