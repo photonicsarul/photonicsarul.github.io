@@ -249,7 +249,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  ARIAposts:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -306,7 +308,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _ARIAposts
+  - scope:
+      path: ""
+      type: ARIAposts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Sass/SCSS
 sass:
