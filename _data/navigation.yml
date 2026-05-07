@@ -18,8 +18,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
     
-  #- title: "ARIA Quantum Utility"
-  #url: /portfolio/
+  - title: "ARIA Quantum Utility"
+    url: /portfolio/
         
   - title: "News"
     url: /year-archive/
