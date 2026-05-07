@@ -30,7 +30,7 @@ If you're a scientist in industry or academia or policy who's interested in thes
 
 We are also in the process of setting up a website to document our progress, so watch this space!
 
-Any further questions, please email Rakesh Arul at ra554@cam.ac.uk and fill out this form: https://forms.gle/74yVFRsQKewSe1Fz9
+Any further questions, please email Rakesh Arul at <ra554@cam.ac.uk> and fill out this Google form <https://forms.gle/74yVFRsQKewSe1Fz9>
 
 
 Nanophotonics for Quantum and Sustainable Technologies
